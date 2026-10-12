@@ -9,7 +9,7 @@ body:
     id: version
     attributes:
       label: ReplicaMD version
-      placeholder: "2.0.8"
+      placeholder: "2.0.9"
     validations:
       required: true
   - type: input
