@@ -1,0 +1,47 @@
+name: Bug report
+description: Report an installation, data, or app problem.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do not include keys, tokens, personal calendars or private backups. Email security reports privately to ardjundebitewarie@gmail.com."
+  - type: input
+    id: version
+    attributes:
+      label: ReplicaMD version
+      placeholder: "2.0.8"
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Operating system, architecture and installer
+      placeholder: "Windows 11 x64, NSIS installer"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Describe the smallest sequence that causes the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual result
+    validations:
+      required: true
+  - type: dropdown
+    id: fresh
+    attributes:
+      label: Does it happen in a fresh local profile?
+      options:
+        - Not checked
+        - "Yes"
+        - "No"
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Redacted error text or screenshot
+      description: Review attachments for private information before posting.

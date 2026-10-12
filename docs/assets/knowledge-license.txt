@@ -1,0 +1,122 @@
+ReplicaHive Software License Agreement
+
+Copyright (c) 2026 Ardjun. All rights reserved.
+
+This License Agreement ("Agreement") governs your use of the ReplicaHive
+software, including all binary distributions, source code, documentation,
+artwork, and any associated materials (collectively, the "Software"). By
+downloading, installing, or using the Software you agree to be bound by
+the terms of this Agreement. If you do not agree, do not download, install,
+or use the Software.
+
+1. OWNERSHIP
+
+   The Software is the proprietary property of Ardjun (the "Licensor") and
+   is protected by copyright law and international treaty provisions. All
+   rights not expressly granted to you in this Agreement are reserved by
+   the Licensor.
+
+2. LIMITED GRANT OF USE
+
+   Subject to your continued compliance with this Agreement, the Licensor
+   grants you a personal, non-exclusive, non-transferable, revocable
+   licence to install and use one (1) copy of the Software in object code
+   form on devices that you personally own or control, solely for your own
+   personal, non-commercial use.
+
+3. RESTRICTIONS
+
+   You may not, and you may not permit any third party to:
+
+   a) copy, reproduce, publish, distribute, lease, rent, sub-licence,
+      sell, transfer, or otherwise make the Software (in whole or in
+      part) available to any third party;
+
+   b) modify, adapt, translate, or create derivative works based on the
+      Software, in whole or in part;
+
+   c) decompile, disassemble, reverse engineer, or otherwise attempt to
+      derive the source code, underlying ideas, algorithms, file formats,
+      or interface specifications of the Software, except and only to
+      the extent that such activity is expressly permitted by applicable
+      law that cannot be lawfully restricted by contract;
+
+   d) use the Software, or any portion of it, to develop, train, or
+      improve any competing product, service, or machine-learning model;
+
+   e) use the Software for any commercial purpose, including but not
+      limited to providing services to third parties, redistribution as
+      part of a paid product, or use in a commercial enterprise, without
+      the Licensor's prior written consent;
+
+   f) remove, obscure, or alter any copyright, trademark, or other
+      proprietary notices on or in the Software;
+
+   g) circumvent or attempt to circumvent any technical protection or
+      update mechanism that is part of the Software.
+
+4. UPDATES
+
+   The Software contains an automatic update mechanism that periodically
+   checks for and downloads new versions. By using the Software you
+   consent to receive these updates. Updates are governed by the terms of
+   this Agreement (or, if the Licensor provides an updated agreement
+   alongside the update, by those updated terms).
+
+5. SOURCE CODE
+
+   The source code of the Software is confidential and is NOT licensed to
+   you under this Agreement. Any disclosure, publication, or other
+   dissemination of the source code by you, however obtained, is a
+   material breach of this Agreement.
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
+   OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   TITLE, AND NON-INFRINGEMENT. THE ENTIRE RISK ARISING OUT OF THE USE
+   OR PERFORMANCE OF THE SOFTWARE REMAINS WITH YOU.
+
+7. LIMITATION OF LIABILITY
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+   THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+   CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE,
+   DATA, OR USE, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR
+   THE USE OR PERFORMANCE OF THE SOFTWARE, WHETHER IN CONTRACT, TORT,
+   OR OTHERWISE, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGES.
+
+8. TERMINATION
+
+   This Agreement is effective until terminated. The Licensor may
+   terminate this Agreement immediately, without notice, if you fail to
+   comply with any term of this Agreement. Upon termination you must
+   cease all use of the Software and destroy all copies in your
+   possession.
+
+9. THIRD-PARTY COMPONENTS
+
+   The Software incorporates open-source components, each of which is
+   licensed under its own terms. Those terms continue to govern the
+   third-party components only; this Agreement governs the Software as a
+   whole and the proprietary portions thereof.
+
+10. GOVERNING LAW
+
+    This Agreement is governed by and construed in accordance with the
+    laws of the Netherlands, without regard to its conflict-of-law
+    principles. Any dispute arising under or in connection with this
+    Agreement shall be subject to the exclusive jurisdiction of the
+    competent courts of the Netherlands.
+
+11. ENTIRE AGREEMENT
+
+    This Agreement constitutes the entire agreement between you and the
+    Licensor regarding the Software and supersedes all prior or
+    contemporaneous understandings, communications, and agreements,
+    whether written or oral.
+
+For licensing enquiries (including commercial use), contact the Licensor
+through the project's primary distribution channel.

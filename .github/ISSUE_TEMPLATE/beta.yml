@@ -1,0 +1,38 @@
+name: Beta session feedback
+description: Tell us what happened during your first task.
+title: "[Beta] "
+body:
+  - type: markdown
+    attributes:
+      value: "Try the BETA.md checklist with disposable work. Do not share credentials or personal files."
+  - type: input
+    id: environment
+    attributes:
+      label: Version, OS and installer
+    validations:
+      required: true
+  - type: dropdown
+    id: completion
+    attributes:
+      label: Did you complete the first task?
+      options:
+        - "Yes, independently"
+        - "Yes, with help"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: friction
+    attributes:
+      label: Where did you get stuck or need help?
+    validations:
+      required: true
+  - type: textarea
+    id: recovery
+    attributes:
+      label: Restart and backup experience
+      description: Did anything disappear, and could you recover it?
+  - type: textarea
+    id: usefulness
+    attributes:
+      label: Would you use ReplicaMD for another task? Why?

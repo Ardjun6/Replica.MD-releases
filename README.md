@@ -1,34 +1,42 @@
-# ReplicaHive Releases
+# ReplicaMD
 
-Official release artifacts for ReplicaHive, an AI-agent orchestration
-environment that runs persistent coding replicas in real terminals on your own
-machine.
+ReplicaMD is a local-first desktop workspace for persistent AI coding agents,
+project terminals, and the built-in Knowledge app. This repository contains
+public installers, update manifests, documentation and the beta issue tracker.
+The source repository is private.
 
-This repository contains installers and auto-update manifests only. The source
-code is in a private repository.
+[Product website](https://replicamd.ardjun.chatgpt.site) · [Download the latest release](https://github.com/Ardjun6/Replica.MD-releases/releases/latest)
 
-## Download
+Windows x64 requires Git for Windows/Git Bash. Linux x64 downloads include an
+AppImage, Debian package and Arch package. Choose an asset named **ReplicaMD**
+or **replicamd**; older WorkFlow/ReplicaHive releases are different distributions.
+macOS is not included in the current public beta.
 
-Get the latest build from the
-[Releases page](https://github.com/Ardjun6/Replica.MD-releases/releases/latest).
+- [Installation and first task](https://replicamd.ardjun.chatgpt.site/installation.html)
+- [Privacy](https://replicamd.ardjun.chatgpt.site/privacy.html)
+- [Licenses](https://replicamd.ardjun.chatgpt.site/terms.html)
+- [Support and feedback](https://replicamd.ardjun.chatgpt.site/support.html)
+- [Beta test session](BETA.md)
+- [Report a problem](https://github.com/Ardjun6/Replica.MD-releases/issues/new/choose)
 
-| Platform | File |
-| --- | --- |
-| Linux (portable) | `replicahive-*-x86_64.AppImage` |
-| Linux (Debian/Ubuntu) | `replicahive-*-amd64.deb` |
-| Linux (Arch) | `replicahive-*-x64.pacman` |
-| Windows | `ReplicaHive-*-x64.exe` |
+Local profiles do not require Google. Google integration is optional and its
+Testing audience is limited to approved test users. Agent CLIs and provider
+accounts are configured separately; their usage costs are separate.
 
-Not every platform is rebuilt for every tag. Check the assets on the specific
-release you are downloading. There is currently no macOS build.
+The beta installers are unsigned. Release notes report performed checks and
+remaining platform gaps. Keep tested backups of important work. Profile backups
+include profile identity, layout and Logboek; project files and Knowledge vaults
+need their own backups.
 
-## Auto-updates
+## Downloads and updates
 
-The `latest.yml` and `latest-linux.yml` manifests attached to each release are
-consumed by the application's updater. They are not meant to be downloaded
-manually.
+Check the assets on the exact release. Verify downloads with `SHA256SUMS.txt`.
+The `latest.yml` and `latest-linux.yml` assets are consumed by the updater.
+Native Windows installation and update verification must be recorded separately
+from a cross-compiled package or Wine module check.
 
-## Issues
+## Sensitive reports
 
-This repository is for distribution only. Report bugs through the application
-or by email to ardjundebitewarie@outlook.com.
+For vulnerabilities, email `ardjundebitewarie@gmail.com` with `[SECURITY]` in the
+subject. Never post keys, tokens, personal calendars, or private backups in an
+issue. There is no guaranteed support response time.
